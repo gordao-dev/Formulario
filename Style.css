@@ -42,7 +42,7 @@ body {
     margin-bottom: 5px;
 }
 
-.form control input {
+.form-control input {
     border: 2px solid #f0f0d0;
     display: block;
     border-radius: 10px;
